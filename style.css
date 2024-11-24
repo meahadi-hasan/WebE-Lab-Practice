@@ -1,0 +1,63 @@
+body{
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.header{
+    margin: 0;
+    background-color: #333333;
+    overflow: hidden;
+    text-align: center;
+}
+.header h2{
+    color: aliceblue;
+    font-size: 30px;
+}
+.nav{
+    margin: 0;
+    background-color: #bb1616;
+
+}
+.nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+}
+.nav ul li{
+    float: left;
+    list-style: none;
+}
+.nav ul li a{
+    
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px 30px;
+    display: block;
+
+}
+.birds{
+    width: 50%;
+    background: white;
+    margin: 100px auto;
+    padding: 30px;
+    box-shadow: 0 0 10px  black;
+    box-sizing: border-box;
+    
+}
+.footer{
+    width: 100%;
+    background:black;
+    overflow: hidden;
+    padding: 20px 0;
+    text-align: center;
+
+}
+.footer p{
+    margin: 0;
+    color: aliceblue;
+    
+}

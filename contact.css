@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+}
+h2{
+    background-color: blueviolet;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+    font-size: 35px;
+    color: aliceblue;
+}
+.nav{
+    margin: 0;
+    background-color: #bb1616;
+
+}
+.nav ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    
+}
+.nav ul li{
+    float: left;
+    list-style: none;
+}
+.nav ul li a{
+    
+    text-decoration: none;
+    color: aliceblue;
+    padding: 15px 30px;
+    display: block;
+
+}
+.contact{
+    width: 100%;
+    background: green ;
+    padding: 150px 0;
+}
+form{
+    width: 40%;
+    margin: 0 auto;
+}
+form label{
+    display: block;
+    margin: 15px 0;
+}
+form input{
+    display: block;
+    width: 100%;
+    padding: 10px 0;
+}
+form input[type="submit"]{
+    margin: 15px 0;
+}
