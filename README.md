@@ -1,4 +1,4 @@
-# Birds Web Project 🐦
+# Birds WebPage 🐦
 
 This project was created as part of my **Web Engineering Lab** practice. 
 It demonstrates a simple yet effective webpage about birds, using **HTML**,**CSS** and **JavaScript**.
